@@ -1,0 +1,22 @@
+Wed Feb 15 18:40:15 2017
+===Predict with RN===
+
+==========alfa: 0.05============
+
+recall_score_PU_LR: 0.954901935534
+precision_score_PU_LR: 0.0322266605416
+f1_score_PU_LR: 0.0623491217847
+Wed Feb 15 19:39:03 2017
+
+
+recall_score_PU_NB: 0.790993264909
+precision_score_PU_NB: 0.00749886399346
+f1_score_PU_NB: 0.0148568801084
+Wed Feb 15 20:37:47 2017
+
+
+recall_score_PU_DT: 0.772153039805
+precision_score_PU_DT: 0.00734611356165
+f1_score_PU_DT: 0.0145537654349
+Wed Feb 15 21:39:21 2017
+

@@ -1,0 +1,64 @@
+
+Thu Feb 23 16:40:52 2017
+===Predict with RN(Sample)===
+
+==========alfa: 0.2============
+###### LogisticRegression #######
+
+Thu Feb 23 19:14:05 2017
+===Predict with RN(Sample)===
+
+==========alfa: 0.2============
+###### LogisticRegression #######
+
+recall_score_PU_LR: 0.907975223108
+precision_score_PU_LR: 0.829835814747
+f1_score_PU_LR: 0.867148778118
+accuracy_LR: 0.272098
+Thu Feb 23 20:07:50 2017
+
+###### DecisionTreeClassifier #######
+
+recall_score_PU_DT: 0.995235213063
+precision_score_PU_DT: 0.639834086732
+f1_score_PU_DT: 0.778909387772
+accuracy_DT: 0.22756
+Thu Feb 23 21:01:00 2017
+
+###### RandomForestClassifier #######
+
+recall_score_PU_RF: 0.963130851352
+precision_score_PU_RF: 0.807658664593
+f1_score_PU_RF: 0.878569666498
+accuracy_RF: 0.273958
+Thu Feb 23 21:54:16 2017
+
+
+Thu Feb 23 21:54:16 2017
+===Predict with RN(Sample)===
+
+==========alfa: 0.3============
+###### LogisticRegression #######
+
+recall_score_PU_LR: 0.919822801437
+precision_score_PU_LR: 0.79903123322
+f1_score_PU_LR: 0.855182735191
+accuracy_LR: 0.266924
+Thu Feb 23 22:48:48 2017
+
+###### DecisionTreeClassifier #######
+
+recall_score_PU_DT: 0.994913268
+precision_score_PU_DT: 0.640868670781
+f1_score_PU_DT: 0.77957670089
+accuracy_DT: 0.227928
+Thu Feb 23 23:42:31 2017
+
+###### RandomForestClassifier #######
+
+recall_score_PU_RF: 0.96958263042
+precision_score_PU_RF: 0.793129602124
+f1_score_PU_RF: 0.872524365229
+accuracy_RF: 0.271306
+Fri Feb 24 00:34:39 2017
+

@@ -1,0 +1,89 @@
+===========predict whitout PU=========== 
+Sat Feb 18 12:36:45 2017
+==========alfa: 0.3============
+Sat Feb 18 12:36:45 2017
+Sat Feb 18 12:38:58 2017
+#### DecisionTree ####
+
+recall_score_noPU_DT: 0.997152869032
+precision_score_noPU_DT: 0.0150416925456
+f1_score_noPU_DT: 0.0296363316822
+accuracy_DT: 0.403696
+Sat Feb 18 12:44:24 2017
+
+#### NaiveBayes ####
+
+recall_score_noPU_NB: 0.768287341218
+precision_score_noPU_NB: 0.00723943801489
+f1_score_noPU_NB: 0.0143437176725
+accuracy_NB: 0.035764
+Sat Feb 18 12:48:33 2017
+
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.787122207622
+precision_score_noPU_LR: 0.0781882260801
+f1_score_noPU_LR: 0.142246497269
+accuracy_LR: 0.913312
+Sat Feb 18 12:52:30 2017
+
+#### RandomForestClassifier ####
+
+recall_score_noPU_RF: 0.963863337714
+precision_score_noPU_RF: 0.0320566983276
+f1_score_noPU_RF: 0.0620497130853
+accuracy_RF: 0.733896
+Sat Feb 18 12:57:41 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 13:00:16 2017
+==========alfa: 0.1============
+Sat Feb 18 13:00:16 2017
+Sat Feb 18 13:01:15 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.784275076654
+precision_score_noPU_LR: 0.0779545899819
+f1_score_noPU_LR: 0.141813357622
+accuracy_LR: 0.913318
+Sat Feb 18 13:05:06 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 13:05:06 2017
+==========alfa: 0.15============
+Sat Feb 18 13:05:06 2017
+Sat Feb 18 13:06:16 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.780770915462
+precision_score_noPU_LR: 0.0796363311442
+f1_score_noPU_LR: 0.144530933268
+accuracy_LR: 0.915596
+Sat Feb 18 13:10:05 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 13:10:05 2017
+==========alfa: 0.2============
+Sat Feb 18 13:10:05 2017
+Sat Feb 18 13:11:52 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.782084975909
+precision_score_noPU_LR: 0.079184868173
+f1_score_noPU_LR: 0.14380927451
+accuracy_LR: 0.914958
+Sat Feb 18 13:15:54 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 13:17:13 2017
+==========alfa: 0.3============
+Sat Feb 18 13:17:13 2017
+Sat Feb 18 13:17:14 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.453131844065
+precision_score_noPU_LR: 0.233891024192
+f1_score_noPU_LR: 0.308529674918
+accuracy_LR: 0.981452
+Sat Feb 18 13:23:24 2017
+

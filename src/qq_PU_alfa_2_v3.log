@@ -1,0 +1,29 @@
+
+Fri Feb 17 15:26:20 2017
+===Predict with RN===
+
+==========alfa: 0.05============
+###### NaiveBayes #######
+
+recall_score_PU_NB: 0.768725361367
+precision_score_PU_NB: 0.00723959128279
+f1_score_PU_NB: 0.01434409481
+accuracy_NB: 0.03524
+Fri Feb 17 15:30:52 2017
+
+###### DecisionTreeClassifier #######
+
+recall_score_PU_DT: 0.993648707841
+precision_score_PU_DT: 0.010038876584
+f1_score_PU_DT: 0.0198769356135
+accuracy_DT: 0.10513
+Fri Feb 17 15:37:15 2017
+
+###### RandomForestClassifier #######
+
+recall_score_PU_RF: 0.916119141481
+precision_score_PU_RF: 0.0638869797633
+f1_score_PU_RF: 0.119444325467
+accuracy_RF: 0.87665
+Fri Feb 17 15:43:23 2017
+

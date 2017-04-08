@@ -1,0 +1,216 @@
+Sun Feb 19 18:08:28 2017
+===GET RN===
+
+==========alfa: 0.35============
+length of train_negative_pairs: 2894092
+Sun Feb 19 18:10:50 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 2941210
+Sun Feb 19 18:11:31 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+length of pu_train_neg: 882363
+length of pu_test_neg: 2058847
+Sun Feb 19 18:15:42 2017
+
+###### LogisticRegression ######
+len(predict_to_0_prob_LR) ++ max(predict_to_0_prob_LR) ++ min(predict_to_0_prob_LR) ++ mean(predict_to_0_prob_LR) 
+96576, 0.999999915094, 0.500005622631, 0.827219533469
+Sun Feb 19 18:24:24 2017
+len(RN_LR_mean):2036418
+Sun Feb 19 18:39:06 2017
+===GET RN===
+
+==========alfa: 0.4============
+length of train_negative_pairs: 3307534
+Sun Feb 19 18:41:37 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 3354652
+Sun Feb 19 18:42:23 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+length of pu_train_neg: 1006395
+length of pu_test_neg: 2348257
+Sun Feb 19 19:00:07 2017
+
+###### LogisticRegression ######
+len(predict_to_0_prob_LR) ++ max(predict_to_0_prob_LR) ++ min(predict_to_0_prob_LR) ++ mean(predict_to_0_prob_LR) 
+97116, 0.999999910395, 0.500000285148, 0.830768768488
+Sun Feb 19 19:13:40 2017
+len(RN_LR_mean):2325972
+Mon Feb 20 08:52:21 2017
+===GET RN===
+
+==========alfa: 0.3============
+length of train_negative_pairs: 2480651
+Mon Feb 20 08:54:16 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 2527769
+Mon Feb 20 08:55:03 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+length of pu_train_neg: 758330
+length of pu_test_neg: 1769439
+Mon Feb 20 08:59:04 2017
+
+###### DecisionTreeClassifier ######
+len(predict_to_0_prob_DT) ++ max(predict_to_0_prob_DT) ++ min(predict_to_0_prob_DT) ++ mean(predict_to_0_prob_DT) 
+17940, 0.999714772726, 0.528191834089, 0.612075679593
+Mon Feb 20 09:05:40 2017
+len(RN_DT_mean):1742976
+###### RandomForestClassifier ######
+Mon Feb 20 09:48:00 2017
+===GET RN===
+
+==========alfa: 0.35============
+length of train_negative_pairs: 2894092
+Mon Feb 20 09:50:19 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 2941210
+Mon Feb 20 09:50:59 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+length of pu_train_neg: 882363
+length of pu_test_neg: 2058847
+Mon Feb 20 09:56:42 2017
+
+###### DecisionTreeClassifier ######
+len(predict_to_0_prob_DT) ++ max(predict_to_0_prob_DT) ++ min(predict_to_0_prob_DT) ++ mean(predict_to_0_prob_DT) 
+18402, 1.0, 0.554524361949, 0.656906090156
+Mon Feb 20 10:04:50 2017
+len(RN_DT_mean):2032291
+Mon Feb 20 10:48:39 2017
+===GET RN===
+
+==========alfa: 0.35============
+length of train_negative_pairs: 2894092
+Mon Feb 20 10:50:59 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 2941210
+Mon Feb 20 10:51:40 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+length of pu_train_neg: 882363
+length of pu_test_neg: 2058847
+Mon Feb 20 10:56:27 2017
+
+###### DecisionTreeClassifier ######
+len(predict_to_0_prob_DT) ++ max(predict_to_0_prob_DT) ++ min(predict_to_0_prob_DT) ++ mean(predict_to_0_prob_DT) 
+17716, 0.99980001562, 0.535433070866, 0.68094328276
+Mon Feb 20 11:04:17 2017
+###### RandomForestClassifier ######
+len(predict_to_0_prob_RF) ++ max(predict_to_0_prob_RF) ++ min(predict_to_0_prob_RF) ++ mean(predict_to_0_prob_RF) 
+63282, 0.996570281056, 0.500009065168, 0.658637500196
+Mon Feb 20 11:14:50 2017
+Mon Feb 20 11:19:25 2017
+===GET RN===
+
+==========alfa: 0.4============
+Mon Feb 20 12:28:22 2017
+===GET RN===
+
+==========alfa: 0.4============
+length of train_negative_pairs: 3307534
+Mon Feb 20 12:30:58 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 3354652
+Mon Feb 20 12:31:46 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+length of pu_train_neg: 1006395
+length of pu_test_neg: 2348257
+Mon Feb 20 12:40:37 2017
+
+###### DecisionTreeClassifier ######
+len(predict_to_0_prob_DT) ++ max(predict_to_0_prob_DT) ++ min(predict_to_0_prob_DT) ++ mean(predict_to_0_prob_DT) 
+19985, 1.0, 0.537459283388, 0.62534264812
+Mon Feb 20 12:51:43 2017
+###### RandomForestClassifier ######
+len(predict_to_0_prob_RF) ++ max(predict_to_0_prob_RF) ++ min(predict_to_0_prob_RF) ++ mean(predict_to_0_prob_RF) 
+69859, 0.997132257009, 0.500002696073, 0.631127410498
+Mon Feb 20 13:05:20 2017
+Mon Feb 20 14:01:53 2017
+===GET RN===
+
+==========alfa: 0.3============
+length of train_negative_pairs: 2480651
+Mon Feb 20 14:03:46 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 2527769
+Mon Feb 20 14:04:32 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+length of pu_train_neg: 758330
+length of pu_test_neg: 1769439
+Mon Feb 20 14:07:35 2017
+
+###### RandomForestClassifier ######
+len(predict_to_0_prob_RF) ++ max(predict_to_0_prob_RF) ++ min(predict_to_0_prob_RF) ++ mean(predict_to_0_prob_RF) 
+59565, 0.996205115567, 0.500003793301, 0.656638740698
+Mon Feb 20 14:13:56 2017
+Tue Feb 28 10:40:32 2017
+===GET RN===
+
+==========alfa: 0.35============
+length of train_negative_pairs: 2894092
+Tue Feb 28 10:43:18 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 2941210
+Tue Feb 28 10:44:37 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+Tue Feb 28 11:35:56 2017
+===GET RN===
+
+==========alfa: 0.35============
+Tue Feb 28 11:35:56 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 2941210
+Tue Feb 28 11:39:00 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+length of pu_train_neg: 882363
+length of pu_test_neg: 2058847
+Tue Feb 28 11:42:50 2017
+
+Tue Feb 28 11:47:35 2017
+
+===GET RN===
+
+==========alfa: 0.35============
+Tue Feb 28 11:47:35 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 2941210
+Tue Feb 28 11:50:39 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+Tue Feb 28 12:49:06 2017
+
+===GET RN===
+
+==========alfa: 0.35============
+Tue Feb 28 12:49:06 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 2941210
+Tue Feb 28 12:52:12 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+length of pu_train_neg: 882363
+length of pu_test_neg: 2058847
+Tue Feb 28 13:05:20 2017
+
+###### LogisticRegression ######
+len(predict_to_0_prob_LR) ++ max(predict_to_0_prob_LR) ++ min(predict_to_0_prob_LR) ++ mean(predict_to_0_prob_LR) 
+95740, 0.999999999936, 0.500002544444, 0.824591069664
+Tue Feb 28 13:15:09 2017

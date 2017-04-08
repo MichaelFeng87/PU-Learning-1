@@ -1,0 +1,127 @@
+Wed Feb 15 10:24:47 2017
+==========alfa: 0.05============
+length of train_negative_pairs: 413441
+Wed Feb 15 10:25:08 2017
+Wed Feb 15 11:22:26 2017
+
+recall_score_noPU_LR: 0.971887757073
+precision_score_noPU_LR: 0.0118479766601
+f1_score_noPU_LR: 0.0234105625468
+Wed Feb 15 12:28:35 2017
+
+=================================
+Wed Feb 15 13:47:13 2017
+==========alfa: 0.05============
+length of train_negative_pairs: 413441
+Wed Feb 15 14:02:54 2017
+Wed Feb 15 14:02:59 2017
+
+recall_score_noPU_DT: 0.993805776982
+precision_score_noPU_DT: 0.0106858912643
+f1_score_noPU_DT: 0.0211444271891
+Wed Feb 15 15:03:03 2017
+
+
+recall_score_noPU_NB: 0.773737009517
+precision_score_noPU_NB: 0.00735909770797
+f1_score_noPU_NB: 0.014579527924
+Wed Feb 15 16:02:21 2017
+
+
+recall_score_noPU_LR: 0.97451482879
+precision_score_noPU_LR: 0.0123521739052
+f1_score_noPU_LR: 0.0243951345127
+Wed Feb 15 17:01:34 2017
+
+Wed Feb 15 21:33:50 2017
+==========alfa: 0.1============
+length of train_negative_pairs: 826883
+Wed Feb 15 21:50:27 2017
+Wed Feb 15 21:51:04 2017
+
+recall_score_noPU_DT: 0.997939551595
+precision_score_noPU_DT: 0.0152420219001
+f1_score_noPU_DT: 0.0300254503207
+Wed Feb 15 22:51:51 2017
+
+
+recall_score_noPU_NB: 0.773685498307
+precision_score_noPU_NB: 0.00735868439035
+f1_score_noPU_NB: 0.0145787076469
+Wed Feb 15 23:51:28 2017
+
+
+recall_score_noPU_LR: 0.973033881498
+precision_score_noPU_LR: 0.0145160050872
+f1_score_noPU_LR: 0.0286052683833
+Thu Feb 16 00:50:38 2017
+
+Thu Feb 16 00:50:38 2017
+==========alfa: 0.15============
+length of train_negative_pairs: 1240325
+Thu Feb 16 01:07:10 2017
+Thu Feb 16 01:07:47 2017
+
+recall_score_noPU_DT: 0.997939551595
+precision_score_noPU_DT: 0.0152422887213
+f1_score_noPU_DT: 0.0300259680278
+Thu Feb 16 02:10:15 2017
+
+
+recall_score_noPU_NB: 0.773440820058
+precision_score_noPU_NB: 0.0073568627182
+f1_score_noPU_NB: 0.0145750891923
+Thu Feb 16 03:09:15 2017
+
+
+recall_score_noPU_LR: 0.971179477934
+precision_score_noPU_LR: 0.0147158426686
+f1_score_noPU_LR: 0.0289923769828
+Thu Feb 16 04:08:42 2017
+
+Thu Feb 16 04:08:42 2017
+==========alfa: 0.2============
+length of train_negative_pairs: 1653767
+Thu Feb 16 04:25:44 2017
+Thu Feb 16 04:26:27 2017
+
+recall_score_noPU_DT: 0.997759262359
+precision_score_noPU_DT: 0.0152489710059
+f1_score_noPU_DT: 0.0300388517319
+Thu Feb 16 05:27:38 2017
+
+
+recall_score_noPU_NB: 0.771341738246
+precision_score_noPU_NB: 0.00733942008815
+f1_score_noPU_NB: 0.0145404855066
+Thu Feb 16 06:26:48 2017
+
+
+recall_score_noPU_LR: 0.962899050906
+precision_score_noPU_LR: 0.0127093731202
+f1_score_noPU_LR: 0.0250876130498
+Thu Feb 16 07:26:29 2017
+
+Thu Feb 16 07:26:29 2017
+==========alfa: 0.25============
+length of train_negative_pairs: 2067209
+Thu Feb 16 07:44:07 2017
+Thu Feb 16 07:45:02 2017
+
+recall_score_noPU_DT: 0.997939551595
+precision_score_noPU_DT: 0.0152424536155
+f1_score_noPU_DT: 0.030026287968
+Thu Feb 16 08:46:27 2017
+
+
+recall_score_noPU_NB: 0.771290227036
+precision_score_noPU_NB: 0.00733894703822
+f1_score_noPU_NB: 0.0145395480051
+Thu Feb 16 10:20:05 2017
+
+
+recall_score_noPU_LR: 0.980528762572
+precision_score_noPU_LR: 0.0124217269367
+f1_score_noPU_LR: 0.0245326643593
+Thu Feb 16 12:31:55 2017
+

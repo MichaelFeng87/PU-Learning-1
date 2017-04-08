@@ -1,0 +1,52 @@
+===========predict whitout PU=========== 
+Sat Feb 18 15:15:53 2017
+==========alfa: 0.05============
+Sat Feb 18 15:15:53 2017
+Sat Feb 18 15:16:28 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.921813403417
+precision_score_noPU_LR: 0.0354254164107
+f1_score_noPU_LR: 0.0682287909612
+accuracy_LR: 0.770078
+Sat Feb 18 15:20:19 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 15:20:19 2017
+==========alfa: 0.1============
+Sat Feb 18 15:20:19 2017
+Sat Feb 18 15:21:13 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.92049934297
+precision_score_noPU_LR: 0.0364520997034
+f1_score_noPU_LR: 0.0701271398538
+accuracy_LR: 0.777076
+Sat Feb 18 15:25:06 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 15:25:06 2017
+==========alfa: 0.15============
+Sat Feb 18 15:25:06 2017
+Sat Feb 18 15:26:12 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.920061322821
+precision_score_noPU_LR: 0.0368205164163
+f1_score_noPU_LR: 0.0708073487275
+accuracy_LR: 0.779484
+Sat Feb 18 15:29:58 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 15:29:58 2017
+==========alfa: 0.2============
+Sat Feb 18 15:29:58 2017
+Sat Feb 18 15:31:42 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.920280332895
+precision_score_noPU_LR: 0.0361331819902
+f1_score_noPU_LR: 0.0695361498618
+accuracy_LR: 0.775092
+Sat Feb 18 15:35:31 2017
+

@@ -1,0 +1,28 @@
+===========predict whitout PU=========== 
+Thu Feb 16 13:18:53 2017
+==========alfa: 0.05============
+Thu Feb 16 13:18:53 2017
+Thu Feb 16 13:19:32 2017
+===========predict whitout PU=========== 
+Thu Feb 16 13:41:29 2017
+==========alfa: 0.05============
+Thu Feb 16 13:41:29 2017
+Thu Feb 16 13:42:12 2017
+
+recall_score_noPU_DT: 0.997152869032
+precision_score_noPU_DT: 0.0149855016177
+f1_score_noPU_DT: 0.0295272590493
+Thu Feb 16 14:00:00 2017
+
+
+recall_score_noPU_NB: 0.770915462111
+precision_score_noPU_NB: 0.000495872006419
+f1_score_noPU_NB: 0.000991106508473
+Thu Feb 16 14:16:33 2017
+
+
+recall_score_noPU_LR: 0.975689881735
+precision_score_noPU_LR: 0.000868005323766
+f1_score_noPU_LR: 0.00173446760896
+Thu Feb 16 14:33:25 2017
+

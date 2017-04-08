@@ -1,0 +1,28 @@
+Wed Feb 15 18:02:04 2017
+===GET RN===
+
+==========alfa: 0.05============
+length of train_negative_pairs: 413441
+Wed Feb 15 18:02:24 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 460559
+Wed Feb 15 18:03:22 2017
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+length of pu_train_neg: 138167
+length of pu_test_neg: 322392
+Wed Feb 15 18:04:07 2017
+293895, 1.0, 0.500005465819, 0.893220571531
+Wed Feb 15 18:07:33 2017
+1
+205353
+118258, 1.0, 0.506136879818, 0.999646331541
+Wed Feb 15 18:11:51 2017
+116778
+118831
+Wed Feb 15 18:14:28 2017
+295498, 0.999885225928, 0.588679245283, 0.980899639987
+Wed Feb 15 18:17:29 2017
+264927
+287116
+Wed Feb 15 18:20:02 2017

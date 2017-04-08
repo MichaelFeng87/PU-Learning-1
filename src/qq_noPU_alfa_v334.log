@@ -1,0 +1,78 @@
+===========predict whitout PU=========== 
+Sat Feb 18 18:07:24 2017
+==========alfa: 0.05============
+Sat Feb 18 18:07:24 2017
+Sat Feb 18 18:07:27 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.876040297854
+precision_score_noPU_LR: 0.0479806158312
+f1_score_noPU_LR: 0.090978358523
+accuracy_LR: 0.840134
+Sat Feb 18 18:12:34 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 18:12:34 2017
+==========alfa: 0.1============
+Sat Feb 18 18:12:35 2017
+Sat Feb 18 18:12:36 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.873850197109
+precision_score_noPU_LR: 0.0487608153688
+f1_score_noPU_LR: 0.0923675255226
+accuracy_LR: 0.843172
+Sat Feb 18 18:19:54 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 18:19:54 2017
+==========alfa: 0.15============
+Sat Feb 18 18:19:54 2017
+Sat Feb 18 18:19:55 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.888304862024
+precision_score_noPU_LR: 0.0445000329142
+f1_score_noPU_LR: 0.0847542627884
+accuracy_LR: 0.8248
+Sat Feb 18 18:28:47 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 18:40:32 2017
+==========alfa: 0.2============
+Sat Feb 18 18:40:32 2017
+Sat Feb 18 18:40:34 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.884143670609
+precision_score_noPU_LR: 0.0454760510071
+f1_score_noPU_LR: 0.0865028177163
+accuracy_LR: 0.829472
+Sat Feb 18 18:53:49 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 18:53:49 2017
+==========alfa: 0.25============
+Sat Feb 18 18:53:49 2017
+Sat Feb 18 18:53:51 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.882391590013
+precision_score_noPU_LR: 0.046112643494
+f1_score_noPU_LR: 0.0876450690132
+accuracy_LR: 0.832238
+Sat Feb 18 19:05:03 2017
+
+===========predict whitout PU=========== 
+Sat Feb 18 19:05:03 2017
+==========alfa: 0.3============
+Sat Feb 18 19:05:03 2017
+Sat Feb 18 19:05:05 2017
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.888304862024
+precision_score_noPU_LR: 0.0444990564796
+f1_score_noPU_LR: 0.0847524917985
+accuracy_LR: 0.824796
+Sat Feb 18 19:20:20 2017
+

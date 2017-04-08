@@ -1,0 +1,87 @@
+
+Mon Feb 20 14:28:14 2017
+===Predict with RN(Sample)===
+
+==========alfa: 0.3============
+###### LogisticRegression #######
+
+recall_score_PU_LR: 0.924879544459
+precision_score_PU_LR: 0.0344408560057
+f1_score_PU_LR: 0.0664087685364
+accuracy_LR: 0.762528
+Mon Feb 20 14:35:37 2017
+
+###### DecisionTreeClassifier #######
+
+recall_score_PU_DT: 0.994743758213
+precision_score_PU_DT: 0.0166691745052
+f1_score_PU_DT: 0.0327888971106
+accuracy_DT: 0.464078
+Mon Feb 20 14:42:55 2017
+
+###### RandomForestClassifier #######
+
+recall_score_PU_RF: 0.967805519054
+precision_score_PU_RF: 0.0354746002184
+f1_score_PU_RF: 0.0684405346384
+accuracy_RF: 0.759408
+Mon Feb 20 14:48:43 2017
+
+
+Mon Feb 20 14:48:43 2017
+===Predict with RN(Sample)===
+
+==========alfa: 0.35============
+###### LogisticRegression #######
+
+recall_score_PU_LR: 1.0
+precision_score_PU_LR: 0.009132
+f1_score_PU_LR: 0.0180987224664
+accuracy_LR: 0.009132
+Mon Feb 20 14:52:34 2017
+
+###### DecisionTreeClassifier #######
+
+recall_score_PU_DT: 0.995181778362
+precision_score_PU_DT: 0.0166128625381
+f1_score_PU_DT: 0.0326801851206
+accuracy_DT: 0.461998
+Mon Feb 20 14:58:19 2017
+
+###### RandomForestClassifier #######
+
+recall_score_PU_RF: 0.971966710469
+precision_score_PU_RF: 0.0365207373272
+f1_score_PU_RF: 0.0703963961106
+accuracy_RF: 0.76558
+Mon Feb 20 15:04:01 2017
+
+
+Mon Feb 20 15:04:01 2017
+===Predict with RN(Sample)===
+
+==========alfa: 0.4============
+###### LogisticRegression #######
+
+recall_score_PU_LR: 0.927945685502
+precision_score_PU_LR: 0.0293616254574
+f1_score_PU_LR: 0.0569221468395
+accuracy_LR: 0.719208
+Mon Feb 20 15:11:53 2017
+
+###### DecisionTreeClassifier #######
+
+recall_score_PU_DT: 0.994743758213
+precision_score_PU_DT: 0.0166381549305
+f1_score_PU_DT: 0.0327288842131
+accuracy_DT: 0.463062
+Mon Feb 20 15:17:50 2017
+
+###### RandomForestClassifier #######
+
+recall_score_PU_RF: 0.943714410863
+precision_score_PU_RF: 0.0531870247852
+f1_score_PU_RF: 0.100698745063
+accuracy_RF: 0.846072
+Mon Feb 20 15:23:43 2017
+

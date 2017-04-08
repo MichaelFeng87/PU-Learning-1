@@ -1,0 +1,47 @@
+Thu Feb 16 23:30:57 2017
+===GET RN===
+
+==========alfa: 0.05============
+length of train_negative_pairs: 413441
+Thu Feb 16 23:31:20 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 460559
+Thu Feb 16 23:32:48 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+length of pu_train_neg: 138167
+length of pu_test_neg: 322392
+Thu Feb 16 23:33:28 2017
+
+###### LogisticRegression ######
+len(predict_to_0_prob_LR) ++ max(predict_to_0_prob_LR) ++ min(predict_to_0_prob_LR) ++ mean(predict_to_0_prob_LR) 
+18716, 0.999992152712, 0.500000278021, 0.747373271871
+Fri Feb 17 05:25:32 2017
+len(RN_LR_max): 387
+len(RN_LR_mean):301234
+###### NaiveBayes ######
+Fri Feb 17 10:21:02 2017
+===GET RN===
+
+==========alfa: 0.25============
+length of train_negative_pairs: 2067209
+Fri Feb 17 10:22:43 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 2114327
+Fri Feb 17 10:23:47 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928
+Fri Feb 17 11:12:06 2017
+===GET RN===
+
+==========alfa: 0.25============
+length of train_negative_pairs: 2067209
+Fri Feb 17 11:13:46 2017
+length of pu_pos_features: 188468
+length of pu_neg_features: 2114327
+Fri Feb 17 11:14:46 2017
+
+length of pu_train_pos: 56540
+length of pu_test_pos: 131928

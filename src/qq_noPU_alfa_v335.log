@@ -1,0 +1,87 @@
+===========predict whitout PU=========== 
+Sun Feb 19 10:42:40 2017
+==========alfa: 0.3============
+Sun Feb 19 10:42:40 2017
+Sun Feb 19 10:42:42 2017
+#### DecisionTree ####
+
+recall_score_noPU_DT: 0.992553657468
+precision_score_noPU_DT: 0.00989361957592
+f1_score_noPU_DT: 0.0195919496627
+accuracy_DT: 0.09285
+Sun Feb 19 11:23:00 2017
+
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.888304862024
+precision_score_noPU_LR: 0.0444990564796
+f1_score_noPU_LR: 0.0847524917985
+accuracy_LR: 0.824796
+Sun Feb 19 11:35:40 2017
+
+#### RandomForestClassifier ####
+
+recall_score_noPU_RF: 0.97744196233
+precision_score_noPU_RF: 0.0264273617641
+f1_score_noPU_RF: 0.0514632965107
+accuracy_RF: 0.670964
+Sun Feb 19 12:15:11 2017
+
+===========predict whitout PU=========== 
+Sun Feb 19 12:15:11 2017
+==========alfa: 0.35============
+Sun Feb 19 12:15:11 2017
+Sun Feb 19 12:15:12 2017
+#### DecisionTree ####
+
+recall_score_noPU_DT: 0.992553657468
+precision_score_noPU_DT: 0.00993003836606
+f1_score_noPU_DT: 0.0196633540076
+accuracy_DT: 0.09621
+Sun Feb 19 13:01:04 2017
+
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.886990801577
+precision_score_noPU_LR: 0.045126856608
+f1_score_noPU_LR: 0.0858842365315
+accuracy_LR: 0.827574
+Sun Feb 19 13:15:19 2017
+
+#### RandomForestClassifier ####
+
+recall_score_noPU_RF: 0.964958388086
+precision_score_noPU_RF: 0.0344229507172
+f1_score_noPU_RF: 0.0664745553024
+accuracy_RF: 0.7525
+Sun Feb 19 14:00:55 2017
+
+===========predict whitout PU=========== 
+Sun Feb 19 14:00:55 2017
+==========alfa: 0.4============
+Sun Feb 19 14:00:55 2017
+Sun Feb 19 14:00:57 2017
+#### DecisionTree ####
+
+recall_score_noPU_DT: 0.992334647394
+precision_score_noPU_DT: 0.00998325474816
+f1_score_noPU_DT: 0.0197676397063
+accuracy_DT: 0.101272
+Sun Feb 19 14:52:19 2017
+
+#### LogisticRegression ####
+
+recall_score_noPU_LR: 0.885238720981
+precision_score_noPU_LR: 0.0455868089234
+f1_score_noPU_LR: 0.0867084262914
+accuracy_LR: 0.829704
+Sun Feb 19 15:07:56 2017
+
+#### RandomForestClassifier ####
+
+recall_score_noPU_RF: 0.966491458607
+precision_score_noPU_RF: 0.0387360105332
+f1_score_noPU_RF: 0.0744866698737
+accuracy_RF: 0.78067
+Sun Feb 19 15:58:56 2017
+

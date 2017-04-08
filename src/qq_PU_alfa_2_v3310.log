@@ -1,0 +1,13 @@
+
+Mon Feb 20 15:45:30 2017
+===Predict with RN(Sample)===
+
+==========alfa: 0.35============
+###### LogisticRegression #######
+
+recall_score_PU_LR: 1.0
+precision_score_PU_LR: 0.009132
+f1_score_PU_LR: 0.0180987224664
+accuracy_LR: 0.009132
+Mon Feb 20 15:49:21 2017
+

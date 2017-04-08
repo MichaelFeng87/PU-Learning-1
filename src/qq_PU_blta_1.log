@@ -1,0 +1,284 @@
+==========blta: 0.9============
+Sat Feb 18 03:40:32 2017
+length of pu_pos_features: 212027
+length of pu_neg_features: 1263884
+Sat Feb 18 03:41:17 2017
+
+length of pu_train_pos: 63608
+length of pu_test_pos: 148419
+length of pu_train_neg: 379165
+length of pu_test_neg: 884719
+Sat Feb 18 03:43:54 2017
+
+###### LogisticRegression ######
+len(predict_to_0_prob_LR) ++ max(predict_to_0_prob_LR) ++ min(predict_to_0_prob_LR) ++ mean(predict_to_0_prob_LR) 
+61890, 1.0, 0.500006706985, 0.785178717861
+Sat Feb 18 03:47:10 2017
+len(RN_LR_mean):866333
+###### NaiveBayes ######
+len(predict_to_0_prob_NB) ++ max(predict_to_0_prob_NB) ++ min(predict_to_0_prob_NB) ++ mean(predict_to_0_prob_NB) 
+60129, 1.0, 0.733002074041, 0.999995499396
+Sat Feb 18 03:52:50 2017
+len(RN_NB_mean):523652
+###### DecisionTreeClassifier ######
+len(predict_to_0_prob_DT) ++ max(predict_to_0_prob_DT) ++ min(predict_to_0_prob_DT) ++ mean(predict_to_0_prob_DT) 
+1885, 1.0, 0.521739130435, 0.785208380654
+Sat Feb 18 03:56:40 2017
+len(RN_DT_mean):867524
+###### RandomForestClassifier ######
+len(predict_to_0_prob_RF) ++ max(predict_to_0_prob_RF) ++ min(predict_to_0_prob_RF) ++ mean(predict_to_0_prob_RF) 
+30840, 0.99530939457, 0.500020280129, 0.640327128139
+Sat Feb 18 04:02:48 2017
+len(RN_RF_mean):872519
+==========blta: 0.7============
+Sat Feb 18 04:05:53 2017
+length of pu_pos_features: 164910
+length of pu_neg_features: 1311001
+Sat Feb 18 04:06:39 2017
+
+length of pu_train_pos: 49473
+length of pu_test_pos: 115437
+length of pu_train_neg: 393300
+length of pu_test_neg: 917701
+Sat Feb 18 04:15:03 2017
+
+###### LogisticRegression ######
+len(predict_to_0_prob_LR) ++ max(predict_to_0_prob_LR) ++ min(predict_to_0_prob_LR) ++ mean(predict_to_0_prob_LR) 
+92660, 0.999999999808, 0.500011593241, 0.830379480395
+Sat Feb 18 04:19:08 2017
+len(RN_LR_mean):892262
+###### NaiveBayes ######
+len(predict_to_0_prob_NB) ++ max(predict_to_0_prob_NB) ++ min(predict_to_0_prob_NB) ++ mean(predict_to_0_prob_NB) 
+63320, 1.0, 0.999108198364, 0.999999983735
+Sat Feb 18 04:26:15 2017
+len(RN_NB_mean):346648
+###### DecisionTreeClassifier ######
+len(predict_to_0_prob_DT) ++ max(predict_to_0_prob_DT) ++ min(predict_to_0_prob_DT) ++ mean(predict_to_0_prob_DT) 
+25652, 0.999577690892, 0.652777777778, 0.890098533915
+Sat Feb 18 04:31:05 2017
+len(RN_DT_mean):887887
+###### RandomForestClassifier ######
+len(predict_to_0_prob_RF) ++ max(predict_to_0_prob_RF) ++ min(predict_to_0_prob_RF) ++ mean(predict_to_0_prob_RF) 
+60015, 0.995619908118, 0.500000924695, 0.631745521091
+Sat Feb 18 04:40:48 2017
+len(RN_RF_mean):892672
+==========blta: 0.6============
+Sat Feb 18 04:44:11 2017
+length of pu_pos_features: 141351
+length of pu_neg_features: 1334560
+Sat Feb 18 04:45:13 2017
+
+length of pu_train_pos: 42405
+length of pu_test_pos: 98946
+
+
+==========blta: 0.6============
+Sat Feb 18 06:07:42 2017
+length of pu_pos_features: 141351
+length of pu_neg_features: 1334560
+Sat Feb 18 06:08:37 2017
+
+length of pu_train_pos: 42405
+length of pu_test_pos: 98946
+length of pu_train_neg: 400368
+length of pu_test_neg: 934192
+Sat Feb 18 06:15:02 2017
+
+###### LogisticRegression ######
+len(predict_to_0_prob_LR) ++ max(predict_to_0_prob_LR) ++ min(predict_to_0_prob_LR) ++ mean(predict_to_0_prob_LR) 
+103272, 1.0, 0.50003976359, 0.846033425457
+Sat Feb 18 06:18:58 2017
+len(RN_LR_mean):905856
+###### NaiveBayes ######
+len(predict_to_0_prob_NB) ++ max(predict_to_0_prob_NB) ++ min(predict_to_0_prob_NB) ++ mean(predict_to_0_prob_NB) 
+64467, 1.0, 0.75500862205, 0.999996199739
+Sat Feb 18 06:32:38 2017
+len(RN_NB_mean):308531
+###### DecisionTreeClassifier ######
+len(predict_to_0_prob_DT) ++ max(predict_to_0_prob_DT) ++ min(predict_to_0_prob_DT) ++ mean(predict_to_0_prob_DT) 
+29050, 1.0, 0.538596491228, 0.856894317385
+Sat Feb 18 06:38:35 2017
+len(RN_DT_mean):885781
+###### RandomForestClassifier ######
+
+
+==========blta: 0.5============
+Sat Feb 18 07:59:01 2017
+length of pu_pos_features: 117793
+length of pu_neg_features: 1358118
+Sat Feb 18 07:59:45 2017
+
+length of pu_train_pos: 35337
+length of pu_test_pos: 82456
+length of pu_train_neg: 407435
+length of pu_test_neg: 950683
+Sat Feb 18 08:01:14 2017
+
+###### LogisticRegression ######
+len(predict_to_0_prob_LR) ++ max(predict_to_0_prob_LR) ++ min(predict_to_0_prob_LR) ++ mean(predict_to_0_prob_LR) 
+117532, 1.0, 0.500014902914, 0.856864704267
+Sat Feb 18 08:04:22 2017
+len(RN_LR_mean):921645
+###### NaiveBayes ######
+len(predict_to_0_prob_NB) ++ max(predict_to_0_prob_NB) ++ min(predict_to_0_prob_NB) ++ mean(predict_to_0_prob_NB) 
+64544, 1.0, 0.999970579702, 0.999999999544
+Sat Feb 18 08:08:25 2017
+len(RN_NB_mean):315592
+###### DecisionTreeClassifier ######
+len(predict_to_0_prob_DT) ++ max(predict_to_0_prob_DT) ++ min(predict_to_0_prob_DT) ++ mean(predict_to_0_prob_DT) 
+23870, 1.0, 0.538461538462, 0.956366355346
+Sat Feb 18 08:12:05 2017
+len(RN_DT_mean):890640
+###### RandomForestClassifier ######
+len(predict_to_0_prob_RF) ++ max(predict_to_0_prob_RF) ++ min(predict_to_0_prob_RF) ++ mean(predict_to_0_prob_RF) 
+137961, 0.996953458152, 0.500175878248, 0.656811157184
+Sat Feb 18 08:16:36 2017
+len(RN_RF_mean):931601
+
+
+==========blta: 0.6============
+Sat Feb 18 09:03:20 2017
+length of pu_pos_features: 141351
+length of pu_neg_features: 1334560
+Sat Feb 18 09:04:05 2017
+
+length of pu_train_pos: 42405
+length of pu_test_pos: 98946
+length of pu_train_neg: 400368
+length of pu_test_neg: 934192
+Sat Feb 18 09:05:37 2017
+
+###### RandomForestClassifier ######
+len(predict_to_0_prob_RF) ++ max(predict_to_0_prob_RF) ++ min(predict_to_0_prob_RF) ++ mean(predict_to_0_prob_RF) 
+101241, 0.996121392976, 0.500124377034, 0.625437295972
+Sat Feb 18 09:08:41 2017
+len(RN_RF_mean):911356
+
+
+==========blta: 0.4============
+Sat Feb 18 09:10:27 2017
+length of pu_pos_features: 94234
+length of pu_neg_features: 1381677
+Sat Feb 18 09:11:09 2017
+
+length of pu_train_pos: 28270
+length of pu_test_pos: 65964
+length of pu_train_neg: 414503
+length of pu_test_neg: 967174
+Sat Feb 18 09:12:45 2017
+
+###### RandomForestClassifier ######
+len(predict_to_0_prob_RF) ++ max(predict_to_0_prob_RF) ++ min(predict_to_0_prob_RF) ++ mean(predict_to_0_prob_RF) 
+160894, 0.997092003468, 0.50590590139, 0.710348499141
+Sat Feb 18 09:15:45 2017
+len(RN_RF_mean):940649
+
+
+==========blta: 0.3============
+Sat Feb 18 13:36:57 2017
+length of pu_pos_features: 70675
+length of pu_neg_features: 1405236
+Sat Feb 18 13:37:49 2017
+
+length of pu_train_pos: 21202
+length of pu_test_pos: 49473
+
+
+==========blta: 0.3============
+Sat Feb 18 14:22:20 2017
+length of pu_pos_features: 70675
+length of pu_neg_features: 1405236
+Sat Feb 18 14:23:04 2017
+
+length of pu_train_pos: 21202
+length of pu_test_pos: 49473
+length of pu_train_neg: 421570
+length of pu_test_neg: 983666
+Sat Feb 18 14:24:41 2017
+
+###### LogisticRegression ######
+len(predict_to_0_prob_LR) ++ max(predict_to_0_prob_LR) ++ min(predict_to_0_prob_LR) ++ mean(predict_to_0_prob_LR) 
+137341, 1.0, 0.50004577282, 0.916676742347
+Sat Feb 18 14:29:05 2017
+len(RN_LR_mean):946936
+###### NaiveBayes ######
+len(predict_to_0_prob_NB) ++ max(predict_to_0_prob_NB) ++ min(predict_to_0_prob_NB) ++ mean(predict_to_0_prob_NB) 
+63954, 1.0, 0.612646999648, 0.99999064623
+Sat Feb 18 14:35:06 2017
+len(RN_NB_mean):317365
+###### DecisionTreeClassifier ######
+len(predict_to_0_prob_DT) ++ max(predict_to_0_prob_DT) ++ min(predict_to_0_prob_DT) ++ mean(predict_to_0_prob_DT) 
+150353, 1.0, 0.636042402827, 0.76294532668
+Sat Feb 18 14:39:41 2017
+len(RN_DT_mean):902657
+
+
+==========blta: 0.2============
+Sat Feb 18 15:41:31 2017
+length of pu_pos_features: 47117
+length of pu_neg_features: 1428794
+Sat Feb 18 15:42:16 2017
+
+length of pu_train_pos: 14135
+length of pu_test_pos: 32982
+length of pu_train_neg: 428638
+length of pu_test_neg: 1000156
+Sat Feb 18 15:46:14 2017
+
+###### LogisticRegression ######
+len(predict_to_0_prob_LR) ++ max(predict_to_0_prob_LR) ++ min(predict_to_0_prob_LR) ++ mean(predict_to_0_prob_LR) 
+150065, 1.0, 0.500030408743, 0.920648689172
+Sat Feb 18 15:50:24 2017
+len(RN_LR_mean):968675
+###### DecisionTreeClassifier ######
+len(predict_to_0_prob_DT) ++ max(predict_to_0_prob_DT) ++ min(predict_to_0_prob_DT) ++ mean(predict_to_0_prob_DT) 
+153870, 1.0, 0.576905311778, 0.830502199456
+Sat Feb 18 15:57:58 2017
+len(RN_DT_mean):913704
+###### RandomForestClassifier ######
+len(predict_to_0_prob_RF) ++ max(predict_to_0_prob_RF) ++ min(predict_to_0_prob_RF) ++ mean(predict_to_0_prob_RF) 
+164903, 0.998809876447, 0.551900868772, 0.84736182539
+Sat Feb 18 16:03:48 2017
+len(RN_RF_mean):958633
+
+
+==========blta: 0.3============
+Sat Feb 18 16:22:13 2017
+length of pu_pos_features: 70675
+length of pu_neg_features: 1405236
+Sat Feb 18 16:22:58 2017
+
+length of pu_train_pos: 21202
+length of pu_test_pos: 49473
+length of pu_train_neg: 421570
+length of pu_test_neg: 983666
+Sat Feb 18 16:24:33 2017
+
+###### RandomForestClassifier ######
+len(predict_to_0_prob_RF) ++ max(predict_to_0_prob_RF) ++ min(predict_to_0_prob_RF) ++ mean(predict_to_0_prob_RF) 
+164771, 0.998134772167, 0.500448892886, 0.772979871418
+Sat Feb 18 16:27:40 2017
+len(RN_RF_mean):951954
+
+
+==========blta: 0.3============
+Tue Feb 28 13:41:15 2017
+
+
+==========blta: 0.3============
+Tue Feb 28 13:42:53 2017
+length of pu_pos_features: 70675
+length of pu_neg_features: 1405236
+Tue Feb 28 13:43:37 2017
+
+length of pu_train_pos: 21202
+length of pu_test_pos: 49473
+length of pu_train_neg: 421570
+length of pu_test_neg: 983666
+Tue Feb 28 13:45:09 2017
+
+###### DecisionTreeClassifier ######
+len(predict_to_0_prob_DT) ++ max(predict_to_0_prob_DT) ++ min(predict_to_0_prob_DT) ++ mean(predict_to_0_prob_DT) 
+148078, 1.0, 0.693548387097, 0.758206792855
+Tue Feb 28 13:48:40 2017
+len(RN_DT_mean):899906
